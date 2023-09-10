@@ -2,7 +2,7 @@
 
 # TODO app to practice React & Tailwind
 
--   [preview app](https://todo-react-vite-tailwind.netlify.app/)
+-   [preview app](https://main--magical-sprite-b2e327.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
